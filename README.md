@@ -144,20 +144,22 @@ A ServiceNow application designed to automate the end-to-end lifecycle of networ
 
 ---
 
-### 🔹 Loaner Equipment Management
+### 🔹 Employee Onboarding
 
-A ServiceNow scoped application for managing loaner equipment requests and returns.
+A ServiceNow application designed to streamline and automate the employee onboarding process.
 
 **Key Features:**
 
-- Loaner equipment management
-- Equipment request workflow
-- Approval process
-- Return request management
-- Role-based access
+- Employee onboarding request management
 - Service Catalog integration
+- Workflow automation
+- Approval process
+- Task management
+- Notifications
+- Employee information management
+- Request tracking
 
-**Technology:** ServiceNow | Scoped Application | Flow Designer | Service Catalog
+**Technology:** ServiceNow | ITSM | Service Catalog | Flow Designer | Workflow Automation
 
 ---
 
