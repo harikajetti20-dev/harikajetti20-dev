@@ -23,8 +23,7 @@
 📚 Completed an MSME Python Full Stack Development course, strengthening my knowledge of Python, web technologies, databases, and full-stack development.
 
 💡 I enjoy learning new technologies, solving problems, and turning ideas into working projects.
-
-📫 Reach me at "harikajetti20@gmail.com"
+📫 Reach me at harikajetti20@gmail.com
 ---
 
 ## 🛠️ Tech Stack
