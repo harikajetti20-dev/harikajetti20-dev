@@ -1,4 +1,14 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=9B7EDE&text=HARIKA%20JETTI&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1800&pause=700&color=9B7EDE&center=true&vCenter=true&width=950&lines=HARIKA+JETTI;ServiceNow+Developer+%E2%9A%A1;Full+Stack+Developer+%F0%9F%92%BB;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F&repeat=true"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=900&color=6F6A80&center=true&vCenter=true&width=900&lines=Automating+Workflows+%7C+Building+Applications+%7C+Exploring+Cloud;ServiceNow+%E2%80%A2+Python+%E2%80%A2+Full+Stack+Development+%E2%80%A2+Cloud+Computing&repeat=true"/>
+</p>
 <!-- =========================================================
      HARIKA JETTI — FUTURISTIC GITHUB PROFILE
 ========================================================= -->
