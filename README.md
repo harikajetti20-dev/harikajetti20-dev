@@ -24,6 +24,7 @@
 
 💡 I enjoy learning new technologies, solving problems, and turning ideas into working projects.
 
+📫 Reach me at "harikajetti20@gmail.com"
 ---
 
 ## 🛠️ Tech Stack
