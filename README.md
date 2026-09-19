@@ -1,663 +1,483 @@
+````markdown
+<!-- ========================================================= -->
+<!--                    HARIKA JETTI README                    -->
+<!-- ========================================================= -->
 
-<!-- =========================================================
-     HARIKA JETTI — FUTURISTIC GITHUB PROFILE
-========================================================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=9B7EDE&text=HARIKA%20JETTI&fontSize=62&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2200&pause=800&color=9B7EDE&center=true&vCenter=true&width=950&lines=HARIKA+JETTI;HARIKA+JETTI;HARIKA+JETTI&repeat=true" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=9B7EDE&text=HARIKA%20JETTI&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=SERVICENOW%20DEVELOPER%20%E2%80%A2%20FULL%20STACK%20DEVELOPER%20%E2%80%A2%20CLOUD%20ENTHUSIAST&descAlignY=62&descSize=15&animation=fadeIn"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=900&color=5F5A70&center=true&vCenter=true&width=950&lines=ServiceNow+Developer+%E2%9A%A1;Full+Stack+Developer+%F0%9F%92%BB;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F&repeat=true" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=7B748C&center=true&vCenter=true&width=900&lines=Automating+workflows+%E2%80%A2+Building+applications+%E2%80%A2+Exploring+cloud;Turning+ideas+into+working+solutions+%F0%9F%9A%80;Learn+%E2%80%A2+Build+%E2%80%A2+Automate+%E2%80%A2+Grow&repeat=true" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2200&pause=900&color=9B7EDE&center=true&vCenter=true&width=900&lines=Hey!+I'm+Harika+Jetti+%F0%9F%91%8B;ServiceNow+Developer+%E2%9A%99%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;I+build%2C+automate+%26+learn+%F0%9F%9A%80"/>
+<p align="center">
+  <a href="https://github.com/harikajetti20-dev">
+    <img src="https://img.shields.io/badge/GitHub-18152A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harikajetti/">
+    <img src="https://img.shields.io/badge/LinkedIn-9B7EDE?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:harikajetti20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-B79BEF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=800&color=6F6A80&center=true&vCenter=true&width=850&lines=Automating+business+workflows;Building+ServiceNow+applications;Exploring+Python+%26+Full+Stack+Development;Learning+Cloud+%26+AWS;Turning+ideas+into+working+solutions"/>
-
-<br><br>
-
-<a href="https://github.com/harikajetti20-dev">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/harikajetti/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:harikajetti20@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-9B7EDE?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=harikajetti20-dev&label=PROFILE%20VIEWS&color=9B7EDE&style=for-the-badge"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harikajetti20-dev&label=PROFILE%20VIEWS&color=9B7EDE&style=for-the-badge"/>
+</p>
 
 ---
 
-<div align="center">
-
-# ◈ ABOUT ME ◈
-
-</div>
+# 👩‍💻 ABOUT ME
 
 <table>
 <tr>
+<td width="65%">
 
-<td width="65%" valign="top">
+### Hey, I'm Harika Jetti 👋
 
-### `> whoami`
+I'm a **B.Tech Computer Science & Engineering student at NSRIT (Autonomous), Visakhapatnam**, passionate about technology, automation and building practical solutions.
 
-🎓 **B.Tech Computer Science & Engineering**  
-NSRIT (Autonomous), Visakhapatnam
+My primary area of interest is **ServiceNow development**, where I work with ITSM concepts, Service Catalog, Flow Designer, workflow automation and application customization.
 
-⚙️ **ServiceNow Developer** with strong knowledge of:
-
-`ITSM` · `Service Catalog` · `Flow Designer` · `Business Rules` · `Client Scripts` · `UI Policies` · `ACLs` · `Workflow Automation`
-
-🏆 **ServiceNow Certified System Administrator (CSA)**
-
-🏆 **ServiceNow Certified Application Developer (CAD)**
-
-💻 Familiar with:
-
-`Python` · `Java` · `SQL` · `HTML` · `CSS` · `JavaScript` · `PostgreSQL`
-
-☁️ Completed a **Cloud Computing internship through APSSDC** during my second year, gaining foundational knowledge of cloud computing concepts and AWS.
-
-🐍 Completed a **Python Full Stack Development internship through EduSkills** during my third year.
-
-📚 Completed an **MSME Python Full Stack Development course** covering Python, web technologies, databases, and full-stack development.
-
-📫 **harikajetti20@gmail.com**
+I also explore **Full Stack Development, Python and Cloud Computing**, while continuously improving my technical skills through hands-on projects, internships and certifications.
 
 </td>
 
-<td width="35%" valign="top">
-
-<div align="center">
-
-### `SYSTEM STATUS`
-
-<br>
-
-🟣 **SERVICENOW**  
-`ACTIVE`
-
-<br>
-
-🟣 **FULL STACK**  
-`BUILDING`
-
-<br>
-
-🟣 **PYTHON**  
-`LEARNING`
-
-<br>
-
-🟣 **CLOUD**  
-`EXPLORING`
-
-<br>
-
-🟣 **PROBLEM SOLVING**  
-`ACTIVE`
-
-<br>
-
-`[██████████████████░░]`
-
-**BUILD • LEARN • IMPROVE**
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# `~/developer/terminal`
-
-</div>
+<td width="35%" align="center">
 
 ```text
-┌───────────────────────────────────────────────────────────────┐
-│  harika@developer ~ $ ./profile                              │
-├───────────────────────────────────────────────────────────────┤
-│                                                               │
-│  NAME        : Harika Jetti                                  │
-│  ROLE        : ServiceNow Developer                          │
-│  EDUCATION   : B.Tech CSE                                    │
-│  LOCATION    : Visakhapatnam, India                          │
-│                                                               │
-│  SPECIALITY  : ServiceNow & Workflow Automation               │
-│  INTERESTS   : Full Stack • Python • Cloud                   │
-│                                                               │
-│  STATUS      : ████████████████████░░  BUILDING              │
-│                                                               │
-│  CURRENTLY   :                                                 │
-│               → Advanced ServiceNow Development              │
-│               → Python & Java                                 │
-│               → Full Stack Development                        │
-│               → AWS & Cloud Computing                         │
-│               → Data Structures & Algorithms                  │
-│                                                               │
-│  harika@developer ~ $ echo "keep building..."                │
-│  keep building... 🚀                                          │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
+╭──────────────────────────╮
+│      HARIKA JETTI        │
+├──────────────────────────┤
+│ ⚡ ServiceNow            │
+│ 💻 Full Stack            │
+│ 🐍 Python                │
+│ ☁️ Cloud Computing       │
+│ 🗄️ SQL / PostgreSQL      │
+│ 🚀 Always Learning       │
+╰──────────────────────────╯
 ````
 
+</td>
+</tr>
+</table>
+
 ---
 
-<div align="center">
+# ⚡ SERVICENOW DEVELOPMENT
 
-# `01` ⚙️ SERVICENOW ENGINE
+<p align="center">
+  <img src="https://img.shields.io/badge/ServiceNow-9B7EDE?style=for-the-badge&logo=servicenow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ITSM-B79BEF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Service%20Catalog-EDE7FA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flow%20Designer-9B7EDE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business%20Rules-B79BEF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Client%20Scripts-EDE7FA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI%20Policies-9B7EDE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ACLs-B79BEF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Update%20Sets-EDE7FA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scoped%20Applications-9B7EDE?style=for-the-badge"/>
+</p>
 
-<img src="https://img.shields.io/badge/PLATFORM-9B7EDE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ITSM-B79BEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AUTOMATION-9B7EDE?style=for-the-badge"/>
+### 🧩 ServiceNow Expertise
 
-</div>
+```text
+SERVICENOW
+│
+├── ITSM
+├── Service Catalog
+├── Application Development
+├── Flow Designer
+├── Workflow Automation
+├── Business Rules
+├── Client Scripts
+├── UI Policies
+├── Access Control Lists
+├── Update Sets
+└── Scoped Applications
+```
+
+---
+
+# 🛠️ TECHNOLOGY MATRIX
 
 <table>
 <tr>
-
 <td align="center" width="25%">
 
-### ☁️ PLATFORM
-
-ServiceNow
-Platform Concepts
+### ⚡ ServiceNow
 
 ITSM
-
-Application
-Development
-
-Scoped Applications
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚡ AUTOMATION
-
-Flow Designer
-
-Workflow Automation
-
-Business Rules
-
-Update Sets
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧩 CATALOG
-
 Service Catalog
-
-Catalog Items
-
-Dynamic Forms
-
-Request Management
-
-</td>
-
-<td align="center" width="25%">
-
-### 🛡️ SECURITY
-
+Flow Designer
+Application Development
+Workflow Automation
 ACLs
 
-Access Control
+</td>
 
-Data Validation
+<td align="center" width="25%">
 
-Request Security
+### 💻 Development
+
+Python
+Java
+JavaScript
+HTML
+CSS
+Full Stack Development
 
 </td>
 
+<td align="center" width="25%">
+
+### 🗄️ Database
+
+SQL
+PostgreSQL
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️ Cloud & Tools
+
+Cloud Computing
+AWS Concepts
+Git
+GitHub
+VS Code
+
+</td>
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,postgresql,git,github,vscode&theme=light"/>
+</p>
+
+---
+
+# 🏆 CERTIFICATION VAULT
+
 <table>
 <tr>
-
 <td align="center" width="50%">
 
-### `CLIENT SIDE`
+## ⚡ CSA
 
-Client Scripts
-UI Policies
-Conditional Validation
-Dynamic Form Behaviour
+### ServiceNow Certified System Administrator
 
 </td>
 
 <td align="center" width="50%">
 
-### `WORKFLOW`
+## 🚀 CAD
 
-Approvals
+### ServiceNow Certified Application Developer
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ServiceNow%20CSA-Certified-9B7EDE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ServiceNow%20CAD-Certified-B79BEF?style=for-the-badge"/>
+</p>
+
+---
+
+# 💼 EXPERIENCE
+
+## 🐍 Python Full Stack Development Intern
+
+### EduSkills
+
+Gained practical exposure to Python and Full Stack Development through internship-based learning and hands-on development.
+
+---
+
+## ☁️ Cloud Computing Intern
+
+### APSSDC
+
+Gained practical exposure to Cloud Computing concepts and cloud-based technologies.
+
+---
+
+# 📚 COURSES & TRAINING
+
+## 🐍 Python Full Stack Development
+
+### MSME
+
+Focused on Python programming and Full Stack Development concepts.
+
+---
+
+# 🚀 PROJECT LAB
+
+## ⚡ Automated Network Request Management in ServiceNow
+
+> A ServiceNow-based solution for automating the end-to-end lifecycle of network-related service requests.
+
+### 🎯 Project Objective
+
+The project focuses on streamlining network-related service requests through **Service Catalog, dynamic forms, approval routing and Flow Designer automation**.
+
+### 🔹 Key Features
+
+* Service Catalog request submission
+* Dynamic request forms
+* UI Policy based form behavior
+* Custom table configuration
+* Approval routing
+* Automated email notifications
+* Flow Designer automation
+* Request tracking
+* Data validation
+* Auto-population
+* Role-based access control
+
+### 🔄 Automation Architecture
+
+```text
+                         ┌─────────────────────┐
+                         │        USER         │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │   SERVICE CATALOG   │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │   NETWORK REQUEST   │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │ GET CATALOG         │
+                         │ VARIABLES           │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │   CREATE RECORD     │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │   ASK FOR APPROVAL  │
+                         └──────────┬──────────┘
+                                    │
+                         ┌──────────┴──────────┐
+                         │                     │
+                         ▼                     ▼
+                  ┌─────────────┐       ┌─────────────┐
+                  │  APPROVED   │       │  REJECTED   │
+                  └──────┬──────┘       └──────┬──────┘
+                         │                     │
+                         ▼                     ▼
+                  ┌─────────────┐       ┌─────────────┐
+                  │   UPDATE    │       │   UPDATE    │
+                  │   RECORD    │       │   RECORD    │
+                  └──────┬──────┘       └─────────────┘
+                         │
+                         ▼
+                  ┌─────────────┐
+                  │    EMAIL    │
+                  │ NOTIFICATION│
+                  └─────────────┘
+```
+
+### 🧠 ServiceNow Components Used
+
+```text
+ServiceNow Application
+│
+├── Service Catalog
+│   └── Network Request
+│
+├── Dynamic Forms
+│   └── UI Policies
+│
+├── Custom Table
+│   └── Network Request Data
+│
+├── Flow Designer
+│   ├── Get Catalog Variables
+│   ├── Create Record
+│   ├── Ask for Approval
+│   ├── Send Email
+│   └── Update Record
+│
+├── Notifications
+│
+└── Access Control
+    └── ACLs
+```
+
+### 🎨 Dynamic Form Behavior
+
+```text
+Connection Type
+      │
+      ├── New
+      │    └── Existing ID Hidden
+      │
+      └── Existing
+           └── Existing ID Displayed
+```
+
+### 🎥 Project Demo
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1WjS0AEqxdho9KFJY0qqG3X2gI9L0dVYY/view?usp=sharing">
+    <img src="https://img.shields.io/badge/▶%20VIEW%20PROJECT%20DEMO-9B7EDE?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 👥 EMPLOYEE ONBOARDING
+
+A ServiceNow-based employee onboarding solution involving:
+
+```text
+Service Catalog
+      ↓
+Request Submission
+      ↓
+Approval Process
+      ↓
+Task Management
+      ↓
 Notifications
+      ↓
+Employee Information
+      ↓
 Request Tracking
-Lifecycle Management
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# `02` 🧬 TECHNOLOGY MATRIX
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 💻 PROGRAMMING
-
-<img src="https://img.shields.io/badge/Python-Basic-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java-Basic-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 WEB
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Full%20Stack-9B7EDE?style=flat-square"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🗄️ DATABASE
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☁️ CLOUD
-
-<img src="https://img.shields.io/badge/Cloud%20Computing-9B7EDE?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/AWS%20Concepts-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🛠️ TOOLS
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ SERVICE PLATFORM
-
-<img src="https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ITSM-9B7EDE?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Flow%20Designer-B79BEF?style=flat-square"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# `03` 🏆 CERTIFICATION VAULT
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-## 🟣 CSA
-
-<img src="https://img.shields.io/badge/SERVICENOW-CERTIFIED%20SYSTEM%20ADMINISTRATOR-9B7EDE?style=for-the-badge&logo=servicenow&logoColor=white"/>
-
-**Certified System Administrator**
-
-</td>
-
-<td width="50%" align="center">
-
-## 🟣 CAD
-
-<img src="https://img.shields.io/badge/SERVICENOW-CERTIFIED%20APPLICATION%20DEVELOPER-B79BEF?style=for-the-badge&logo=servicenow&logoColor=white"/>
-
-**Certified Application Developer**
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# `04` 💼 EXPERIENCE
-
-</div>
-
-<details>
-<summary><b>🐍 Python Full Stack Development Internship — EduSkills</b></summary>
-
-<br>
-
-Completed a Python Full Stack Development internship during my **third year**.
-
-### Exposure
-
-`Python` · `Web Development` · `Databases` · `Full Stack Application Development`
-
-</details>
-
-<br>
-
-<details>
-<summary><b>☁️ Cloud Computing Internship — APSSDC</b></summary>
-
-<br>
-
-Completed a Cloud Computing internship during my **second year**.
-
-### Exposure
-
-`Cloud Computing` · `AWS Concepts` · `Cloud Technologies`
-
-</details>
-
----
-
-<div align="center">
-
-# `05` 📚 LEARNING & TRAINING
-
-</div>
-
-### 🐍 MSME Python Full Stack Development
-
-Completed a Python Full Stack Development course through the **MSME program**, strengthening knowledge of:
-
-`Python` · `Web Technologies` · `Databases` · `Full Stack Development`
-
----
-
-<div align="center">
-
-# `06` 🚀 PROJECT LAB
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&color=9B7EDE&center=true&vCenter=true&width=700&lines=PROJECTS+%7C+AUTOMATION+%7C+APPLICATIONS"/>
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## ⚡ Automated Network Request Management
-
-### `SERVICENOW APPLICATION`
-
-A ServiceNow application designed to automate the **end-to-end lifecycle of network-related service requests**.
-
-### Architecture
-
-```text
-USER
-  ↓
-SERVICE CATALOG
-  ↓
-DYNAMIC REQUEST FORM
-  ↓
-CUSTOM NETWORK TABLE
-  ↓
-FLOW DESIGNER
-  ↓
-APPROVAL
-  ↓
-NOTIFICATION
-  ↓
-REQUEST TRACKING
 ```
 
-### Features
+### 🔹 Key Areas
 
-✔ Service Catalog request submission
-
-✔ Dynamic form behavior using UI Policies
-
-✔ Structured request data using a custom table
-
-✔ Automated approval routing
-
-✔ Email notifications
-
-✔ Flow Designer automation
-
-✔ Request tracking and lifecycle management
-
-✔ Role-based access control
-
-✔ Data validation
-
-✔ Auto-population
-
-### Technology
-
-`ServiceNow` `ITSM` `Flow Designer` `Service Catalog` `UI Policies` `ACLs`
-
-<br>
-
-<a href="https://drive.google.com/file/d/1WjS0AEqxdho9KFJY0qqG3X2gI9L0dVYY/view?usp=sharing">
-<img src="https://img.shields.io/badge/▶%20WATCH%20DEMO-9B7EDE?style=for-the-badge&labelColor=17152A"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 👥 Employee Onboarding
-
-### `SERVICENOW APPLICATION`
-
-A ServiceNow application designed to **streamline and automate the employee onboarding process**.
-
-### Workflow
-
-```text
-EMPLOYEE REQUEST
-       ↓
-SERVICE CATALOG
-       ↓
-APPROVAL
-       ↓
-TASK MANAGEMENT
-       ↓
-NOTIFICATIONS
-       ↓
-TRACKING
-```
-
-### Features
-
-✔ Employee onboarding request management
-
-✔ Service Catalog integration
-
-✔ Workflow automation
-
-✔ Approval process
-
-✔ Task management
-
-✔ Notifications
-
-✔ Employee information management
-
-✔ Request tracking
-
-### Technology
-
-`ServiceNow` `ITSM` `Service Catalog` `Flow Designer` `Workflow Automation`
-
-</td>
-
-</tr>
-</table>
+* Service Catalog integration
+* Workflow automation
+* Approval process
+* Task management
+* Notifications
+* Employee information management
+* Request tracking
 
 ---
 
-<div align="center">
-
-# `07` 🧠 CURRENTLY LEARNING
-
-</div>
+# 🧠 WHAT I LIKE BUILDING
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/ADVANCED%20SERVICENOW%20DEVELOPMENT-9B7EDE?style=for-the-badge"/>
+⚙️ **Automation**
 
-<img src="https://img.shields.io/badge/PYTHON%20%26%20JAVA-B79BEF?style=for-the-badge"/>
+  •  
 
-<img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPMENT-9B7EDE?style=for-the-badge"/>
+⚡ **ServiceNow Applications**
 
-</p>
+  •  
 
-<p align="center">
+💻 **Web Applications**
 
-<img src="https://img.shields.io/badge/AWS%20%26%20CLOUD-B79BEF?style=for-the-badge"/>
+  •  
 
-<img src="https://img.shields.io/badge/DATA%20STRUCTURES%20%26%20ALGORITHMS-9B7EDE?style=for-the-badge"/>
+🔄 **Workflow Systems**
+
+  •  
+
+🐍 **Python Solutions**
+
+  •  
+
+☁️ **Cloud Solutions**
 
 </p>
 
 ---
 
-<div align="center">
-
-# `08` 📊 GITHUB ACTIVITY
-
-</div>
+# 🌱 CURRENTLY LEARNING
 
 <p align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=harikajetti20-dev&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=harikajetti20-dev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harikajetti20-dev&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=900&color=9B7EDE&center=true&vCenter=true&width=850&lines=Deepening+my+ServiceNow+development+skills;Practicing+Python;Improving+Full+Stack+Development;Exploring+Cloud+Computing;Building+more+real-world+projects+%F0%9F%9A%80&repeat=true"/>
 </p>
 
 ---
 
-<div align="center">
+# 📊 GITHUB ACTIVITY
 
-# `09` 🐍 CONTRIBUTION MATRIX
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=harikajetti20-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/harikajetti20-dev/harikajetti20-dev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=harikajetti20-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harikajetti20-dev&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-<div align="center">
+# 🐍 CONTRIBUTION ACTIVITY
 
-# `10` 🌐 CONNECT
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harikajetti20-dev/harikajetti20-dev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
-<br>
+---
 
-<a href="https://www.linkedin.com/in/harikajetti/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+# ✨ DEVELOPER MINDSET
 
-  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=6F6A80&center=true&vCenter=true&width=850&lines=Learn+something+new+every+day.;Build+before+you+perfect.;Automate+what+can+be+automated.;Turn+ideas+into+working+solutions.;Keep+learning.+Keep+building.+Keep+growing.&repeat=true"/>
+</p>
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<p align="center">
 
 <a href="https://github.com/harikajetti20-dev">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Harika%20Jetti-18152A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-  
+<a href="https://www.linkedin.com/in/harikajetti/">
+<img src="https://img.shields.io/badge/LinkedIn-Harika%20Jetti-9B7EDE?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="mailto:harikajetti20@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-9B7EDE?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-harikajetti20%40gmail.com-B79BEF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=900&color=9B7EDE&center=true&vCenter=true&width=800&lines=Learning+%E2%86%92+Building+%E2%86%92+Experimenting+%E2%86%92+Improving;Turning+ideas+into+working+solutions;Keep+learning.+Keep+building.+Keep+growing.+%F0%9F%9A%80"/>
-
-<br>
-
-### 💫 Learning, building, and growing one project at a time.
-
-⭐ **Feel free to explore my repositories!**
-
-</div>
+</p>
 
 ---
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B79BEF&height=170&section=footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=9B7EDE&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile+%F0%9F%92%9C;Let's+build+something+amazing+%F0%9F%9A%80&repeat=true"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9B7EDE&section=footer&animation=fadeIn" width="100%"/>
 </p>
 ```
