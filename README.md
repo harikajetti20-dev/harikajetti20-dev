@@ -8,7 +8,7 @@
 
 🎓 B.Tech Computer Science & Engineering student at NSRIT (Autonomous), Visakhapatnam.
 
-⚙️ ServiceNow Developer with strong knowledge of ServiceNow platform concepts, ITSM, Service Catalog, Flow Designer, Business Rules, Client Scripts, UI Policies, ACLs, and workflow automation.
+⚙️ ServiceNow Developer with strong knowledge of ServiceNow platform concepts, ITSM, Service Catalog, Flow Designer, Business Rules, Client Scripts, UI Policies,     ACLs, and workflow automation.
 
 🏆 ServiceNow Certified System Administrator (CSA) and ServiceNow Certified Application Developer (CAD).
 
